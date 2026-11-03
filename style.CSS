@@ -1,0 +1,16 @@
+.basic {
+            display: flex;
+            justify-content: space-between;
+        }
+        .gr {
+            color:rgb(243, 17, 17)
+        
+            
+        }
+        .bl {
+            color: rgb(13, 216, 104)
+        }
+           
+        .x {
+            color: rgb(34, 15, 207)
+        }
